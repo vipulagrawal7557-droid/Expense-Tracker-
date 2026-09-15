@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Expense Tracker</string>
+    <string name="title">Expense Tracker</string>
+    <string name="developer_name">Vipul Agrawal</string>
+    <string name="developer_mobile">9829598357</string>
+    <string name="developer_email">vipulagrawal7557@gmail.com</string>
+    <string name="developer_role">Lead Mobile Developer</string>
+    <string name="developer_bio">Personal finance manager</string>
+</resources>
